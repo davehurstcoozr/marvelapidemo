@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marvel Demo</string>
+
+    <!-- MARVEL API KEY -->
+    <string name="marvel_api_key_public">433fb0a262118e0c2b64944db5b761b8</string>
+    <string name="marvel_api_key_private">39ae63a944d3ef2d0ca1a789eeafb1a331f32e74</string>
+
+    <!-- FONTS -->
+    <string name="font_main">Montserrat-Bold.ttf</string>
+</resources>

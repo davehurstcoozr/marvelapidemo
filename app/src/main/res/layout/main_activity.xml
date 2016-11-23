@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.marvelapps.marveldemo.ui.main.MainActivity"
+    android:background="#151515"
+
+    >
+
+    <ImageView
+        android:id="@+id/img_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/herowallpaper9"
+        android:scaleType="centerCrop"
+        android:alpha="0.2"
+        android:layout_marginTop="-10dp"/>
+
+    <FrameLayout
+        android:id="@+id/content_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MergeRootFrame">
+
+
+    </FrameLayout>
+
+</FrameLayout>

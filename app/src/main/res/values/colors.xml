@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#191919</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#D01e00</color>
+
+    <color name="marvelColourViewBackground">#151515</color>
+    <color name="marvelColourTextMain">#F0F0F0</color>
+    <color name="marvelColourText1">#FFFFFF</color>
+    <color name="marvelColourText2">#888888</color>
+    <color name="marvelColourText3">#444444</color>
+</resources>
